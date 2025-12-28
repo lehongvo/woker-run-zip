@@ -1,0 +1,12 @@
+# Binary files (quá lớn để push lên git)
+api-worker-macos-m
+*.zip
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbs.db
+Thumbs.db
+
