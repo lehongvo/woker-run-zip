@@ -1,0 +1,2 @@
+# woker-run-zip
+init
