@@ -1,6 +1,6 @@
 # Binary files (quá lớn để push lên git)
 api-worker-macos-m
-*.zip
+# *.zip - Cho phép file zip để người dùng có thể tải về
 
 # macOS
 .DS_Store
